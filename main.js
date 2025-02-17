@@ -1,7 +1,7 @@
 /**
  * 
  * 2.5 - Function Parameters and Return
- * ICS3 - Mr. Brash 🐿️
+ * ICS3 - Mr. J 🐧
  * 
  * Read README.md and YOUR_Task.md 
  * 
