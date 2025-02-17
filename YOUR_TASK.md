@@ -1,6 +1,6 @@
 ### 2.5 - Function Parameters & Return
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 # 📝 Your Task:
 
