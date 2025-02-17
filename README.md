@@ -1,6 +1,6 @@
 # 2.5 - Function Parameters and Return
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 <img src="./images/params_and_return.png" width="280px"  style="display:block;margin:auto;filter:drop-shadow(3px 3px 4px grey)">  
 
@@ -110,5 +110,4 @@ function randInt(min, max) {
 **Now go check out [your task](./YOUR_TASK.md).**
 
 <br>
-<br>
-🐿️
+🐧
